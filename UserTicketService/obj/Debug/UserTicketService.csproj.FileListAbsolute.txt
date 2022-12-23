@@ -1,0 +1,8 @@
+D:\SkillFactory\UnitTests\UserTicketService\bin\Debug\UserTicketService.exe.config
+D:\SkillFactory\UnitTests\UserTicketService\bin\Debug\UserTicketService.exe
+D:\SkillFactory\UnitTests\UserTicketService\bin\Debug\UserTicketService.pdb
+D:\SkillFactory\UnitTests\UserTicketService\obj\Debug\UserTicketService.csproj.AssemblyReference.cache
+D:\SkillFactory\UnitTests\UserTicketService\obj\Debug\UserTicketService.csproj.SuggestedBindingRedirects.cache
+D:\SkillFactory\UnitTests\UserTicketService\obj\Debug\UserTicketService.csproj.CoreCompileInputs.cache
+D:\SkillFactory\UnitTests\UserTicketService\obj\Debug\UserTicketService.exe
+D:\SkillFactory\UnitTests\UserTicketService\obj\Debug\UserTicketService.pdb
